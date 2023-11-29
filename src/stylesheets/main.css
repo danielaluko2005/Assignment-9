@@ -1,3 +1,15 @@
 /* Your styles go here */
 @import url("bootstrap/dist/css/bootstrap.min.css");
 @import url("bootstrap-icons/font/bootstrap-icons.css");
+
+
+.jumbotron{
+    background: url(https://media.istockphoto.com/id/1494135194/photo/ogden-utah.webp?b=1&s=170667a&w=0&k=20&c=1HdqoJRVb0-45dXP_9liHGuAXu36FWVEIC9InUaflI4=);
+    background-position: 0 -300px;
+    background-size: cover;
+}
+
+
+table th, table td{
+    padding-right: 10rem;
+}
